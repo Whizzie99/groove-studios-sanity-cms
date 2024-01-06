@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import loveStory from "./loveStory"
+
+export const schemaTypes = [loveStory];
